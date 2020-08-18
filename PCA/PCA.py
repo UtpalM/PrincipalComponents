@@ -8,8 +8,9 @@ Source:
 http://python-for-multivariate-analysis.readthedocs.io/a_little_book_of_
        python_for_multivariate_analysis.html
        
-This source code from the above location was taken, slightly modified 
-and modularized and structured for readability
+This source code from the above location was modified and structured for readability.
+User can run it for a different data source - just change the data source read into
+the pandas dataframe (line 39)
 """
 
 import pandas as pd
